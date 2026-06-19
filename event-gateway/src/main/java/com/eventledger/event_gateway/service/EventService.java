@@ -8,6 +8,7 @@ import com.eventledger.event_gateway.repository.EventRepository;
 import io.github.resilience4j.retry.annotation.Retry;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
+import io.github.resilience4j.retry.annotation.Retry;
 
 import java.util.List;
 
