@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.config;
+package com.eventledger.event_gateway.config;
 
 import jakarta.servlet.*;
 import jakarta.servlet.http.HttpServletResponse;

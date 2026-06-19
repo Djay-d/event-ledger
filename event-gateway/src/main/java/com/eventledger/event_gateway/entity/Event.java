@@ -1,4 +1,5 @@
-package main.java.com.eventledger.event_gateway.entity;
+
+package com.eventledger.event_gateway.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

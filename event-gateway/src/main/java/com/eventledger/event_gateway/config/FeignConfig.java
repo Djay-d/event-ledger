@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.config;
+package com.eventledger.event_gateway.config;
 
 import feign.RequestInterceptor;
 import org.slf4j.MDC;

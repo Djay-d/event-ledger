@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.controller;
+package com.eventledger.event_gateway.controller;
 
 import com.eventledger.event_gateway.dto.EventRequest;
 import com.eventledger.event_gateway.entity.Event;

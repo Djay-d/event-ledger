@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.repository;
+package com.eventledger.event_gateway.repository;
 
 import com.eventledger.event_gateway.entity.Event;
 import org.springframework.data.jpa.repository.JpaRepository;

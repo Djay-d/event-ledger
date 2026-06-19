@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.client;
+package com.eventledger.event_gateway.client;
 
 import com.eventledger.event_gateway.config.FeignConfig;
 import com.eventledger.event_gateway.dto.TransactionRequest;

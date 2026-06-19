@@ -1,4 +1,4 @@
-package main.java.com.eventledger.event_gateway.dto;
+package com.eventledger.event_gateway.dto;
 
 import lombok.Data;
 
