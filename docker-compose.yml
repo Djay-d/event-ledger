@@ -1,0 +1,11 @@
+services:
+
+  account-service:
+    build: ./account-service
+    ports:
+      - "8081:8081"
+
+  event-gateway:
+    build: ./event-gateway
+    ports:
+      - "8080:8080"
